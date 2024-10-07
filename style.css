@@ -1,0 +1,53 @@
+h1 {
+    color: #ffcc7f;
+    text-align: center;
+}
+
+caption {
+    font-size: 25px;
+    color: #cb94eb;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th {
+    background-color: #ebccfd;
+    text-align: center;
+    width: 100px;
+}
+
+.marques {
+    background-color: pink;
+}
+
+.bd {
+    background-color: #f7f78c;
+}
+
+.programacio {
+    background-color: rgba(111, 111, 247, 0.664);
+}
+
+.ipo {
+    background-color: #b5f084;
+}
+
+.tut {
+    background-color: rgba(163, 163, 163, 0.37);
+}
+
+.diw {
+    background-color: #f58585f1;
+}
+
+.ang {
+    background-color: rgb(143, 219, 194);
+}
+
+.si {
+    background-color: #fdd7a5;
+}
